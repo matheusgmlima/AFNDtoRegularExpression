@@ -2,13 +2,11 @@ package service;
 
 
 import model.AFND;
-import model.Automato;
 import model.Transition;
 import model.TransitionUtils;
 
 import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
 
 public class AFNDtoRegularExpression {
